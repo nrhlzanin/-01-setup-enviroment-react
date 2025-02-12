@@ -85,20 +85,20 @@ Jika di browser telah tampil seperti gambar berikut ini, Selamat!
 ### Pertanyaan dan Jawaban Praktikum 2
 1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa istilah yang muncul. Jelaskan istilah tersebut, TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack! 
 
-> TypeScript adalah superset dari JavaScript yang menambahkan typing (tipe data) pada variabel dan fungsi.
+> - TypeScript adalah superset dari JavaScript yang menambahkan typing (tipe data) pada variabel dan fungsi.
 > ESLint adalah linter untuk JavaScript dan TypeScript yang membantu menjaga konsistensi kode dengan mendeteksi dan memperbaiki kesalahan sintaks atau praktik buruk dalam coding.
-> Tailwind CSS adalah framework CSS berbasis utility-first yang memungkinkan kita menulis kode CSS langsung di atribut class tanpa perlu membuat file CSS terpisah.
-> App Router adalah sistem routing baru di Next.js yang menggunakan folder app/ sebagai root proyek, menggantikan pages/ dari Page Router. 
-> Import alias memungkinkan untuk mengakses file atau folder dengan path yang lebih pendek.
-> Turbopack adalah bundler baru di Next.js yang lebih cepat dibandingkan Webpack dan digunakan untuk mempercepat hot module replacement (HMR) saat pengembangan.
+> - Tailwind CSS adalah framework CSS berbasis utility-first yang memungkinkan kita menulis kode CSS langsung di atribut class tanpa perlu membuat file CSS terpisah.
+> - App Router adalah sistem routing baru di Next.js yang menggunakan folder app/ sebagai root proyek, menggantikan pages/ dari Page Router. 
+> - Import alias memungkinkan untuk mengakses file atau folder dengan path yang lebih pendek.
+> - Turbopack adalah bundler baru di Next.js yang lebih cepat dibandingkan Webpack dan digunakan untuk mempercepat hot module replacement (HMR) saat pengembangan.
 
 2. Apa saja kegunaan folder dan file yang ada pada struktur proyek react yang tampil pada gambar pada tahap percobaan ke-3! 
 
 > ![Screenshot](assets-report/pk2/03.png)
 > 
-> # Struktur Proyek React (Next.js)
+> Struktur Proyek React (Next.js)
 >
-> ## 📂 Folder Utama
+> Folder Utama
 > - **`_next/`** → Folder otomatis dari Next.js untuk hasil build & caching.
 > - **`node_modules/`** → Berisi library yang diinstal dengan `npm install`.
 > - **`public/`** → Menyimpan file statis seperti gambar, ikon, dan aset lainnya.
@@ -107,7 +107,7 @@ Jika di browser telah tampil seperti gambar berikut ini, Selamat!
 >   - **`layout.tsx`** → Struktur layout global (header, footer, dll.).
 >   - **`globals.css`** → File styling global untuk seluruh aplikasi.
 >
-> ## 📄 File Konfigurasi Penting
+> File Konfigurasi Penting
 > - **`.gitignore`** → Mengecualikan file tertentu dari Git.
 > - **`eslint.config.mjs`** → Menjaga kualitas kode dengan ESLint.
 > - **`next.config.ts`** → Pengaturan alias, optimasi gambar, dll.
@@ -116,7 +116,7 @@ Jika di browser telah tampil seperti gambar berikut ini, Selamat!
 > - **`tailwind.config.ts`** → Pengaturan Tailwind CSS.
 > - **`tsconfig.json`** → Konfigurasi TypeScript.
 >
-> ## 📝 Kesimpulan
+> Kesimpulan
 > - **`app/`** → Inti proyek Next.js (berisi halaman & layout).
 > - **`public/`** → Menyimpan aset statis.
 > - **File konfigurasi** → Mengatur proyek agar berjalan optimal.
