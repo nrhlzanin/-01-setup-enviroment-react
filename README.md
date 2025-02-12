@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Laporan Praktikum
 
-|  | Pemrograman Berbasis Framework 2024 |
+|  | Pemrograman Berbasis Framework 2025 |
 |--|--|
 | NIM |  2241720016|
 | Nama |  Nurhaliza Anindya Putri |
@@ -33,18 +33,19 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 1. Jelaskan kegunaan masing-masing dari Git, VS Code dan NodeJS yang telah Anda install 
 pada sesi praktikum ini! 
 
-> Git digunakan sebagai sistem kontrol proyek yang membantu dalam mengelola perubaan kode secara efisien, memungkinkan kolaborasi dengan tim, serta menyimpan riwayat pengembangan proyek.
-> VS Code digunakan sebagai editor kode yang mendukung berbagai bahasa pemrograman, serta memiliki ekstensi untuk memudahkan pengembang membuat sebuah aplikasi.
-> NodeJS digunakan untuk membangun aplikasi backend serta mengelola depedensi proyek dengan npm (Node Package Manager).
+> - Git digunakan sebagai sistem kontrol proyek yang membantu dalam mengelola perubaan kode secara efisien, memungkinkan kolaborasi dengan tim, serta menyimpan riwayat pengembangan proyek.
+> - VS Code digunakan sebagai editor kode yang mendukung berbagai bahasa pemrograman, serta memiliki ekstensi untuk memudahkan pengembang membuat sebuah aplikasi.
+> - NodeJS digunakan untuk membangun aplikasi backend serta mengelola depedensi proyek dengan npm (Node Package Manager).
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut 
 telah berhasil terinstall di perangkat Anda!
 
 > Bukti setup environment telah berhasil di  komputer.
 > - setup environment github
-> ![Screenshot](assets-report/01.png)
+> ![Screenshot](assets-report/pk1/01.png)
 > - setup environment VS Code
-> ![Screenshot](assets-report/02.png)
+> ![Screenshot](assets-report/pk1/02.png)
 > - setup environment NodeJS 
-> ![Screenshot](assets-report/03.png)
+> ![Screenshot](assets-report/pk1/03.png)
+
 > Berdasarkan screenshot di atas, setup environment telah berhasil dilakukan di laptop saya.
