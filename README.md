@@ -133,6 +133,14 @@ berhasil Anda lakukan!
 
 > ![Screenshot](assets-report/pk3/01.png)
 
-## Praktikum 4
+## Praktikum 4: Menulis Markup dengan JSX 
 ### Pertanyaan dan Jawaban Praktikum 4 
+1. Untuk apakah kegunaan sintaks user.imageUrl?
+
+> Sintaks user.imageUrl digunakan untuk mengambil URL gambar dari objek user. Dalam contoh kode, user.imageUrl adalah URL gambar profil yang akan ditampilkan dalam tag <img> di dalam komponen Profile.
+
+2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah 
+berhasil Anda lakukan! 
+
+> ![Screenshot](assets-report/pk4/01.png)
 

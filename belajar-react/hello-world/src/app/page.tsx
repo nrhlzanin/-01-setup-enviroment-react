@@ -50,6 +50,8 @@ export default function Home() {
           {/* Menambahkan komponen MyButton */}
           <MyButton />
         </div>
+          {/* Menambahkan komponen MyProfile */}
+        <Profile />
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
@@ -115,3 +117,27 @@ function MyButton() {
     </a>
   );
 }
+
+//Komponen MyProfile
+function Profile() {
+  return (
+    <>
+      <div className="text-xs">Developed by: {user.name}</div>
+      <img
+        className="rounded-full"
+        src={user.imageUrl}
+        alt={'Foto ' + user.name}
+        style={{
+          width: user.imageSize,
+          height: user.imageSize,
+        }}
+      />
+    </>
+  );
+}
+
+const user = {
+  name: 'Nurhaliza Anindya Putri',
+  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
+  imageSize: 90,
+};
