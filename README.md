@@ -126,8 +126,13 @@ berhasil Anda lakukan!
 
 > ![Screenshot](assets-report/pk2/04.png)
 
-## Praktikum 3
+## Praktikum 3: Menambahkan Komponen React (Button) 
 ### Pertanyaan dan Jawaban Praktikum 3
+1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah 
+berhasil Anda lakukan! 
+
+> ![Screenshot](assets-report/pk3/01.png)
+
 ## Praktikum 4
 ### Pertanyaan dan Jawaban Praktikum 4 
 
